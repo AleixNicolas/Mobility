@@ -1,0 +1,19 @@
+name: mobility_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pandas
+  - numpy
+  - scipy
+  - geopandas
+  - osmnx
+  - networkx
+  - python-igraph
+  - matplotlib
+  - contextily
+  # adjustText is sometimes tricky on conda, so we pipe it through pip
+  - pip
+  - pip:
+    - adjustText

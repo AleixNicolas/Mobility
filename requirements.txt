@@ -1,0 +1,15 @@
+# Data Manipulation & Math
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Geospatial & Network Analysis
+geopandas>=0.14.0
+osmnx>=1.9.0
+networkx>=3.0
+igraph>=0.11.0
+
+# Visualization
+matplotlib>=3.7.0
+contextily>=1.4.0
+adjustText>=1.0.4
