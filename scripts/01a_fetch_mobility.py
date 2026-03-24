@@ -6,8 +6,8 @@ from pyspainmobility import Mobility, Zones
 # --- Configuration ---
 ZONING_LEVEL_DATA = 'municipalities' 
 ZONING_LEVEL_MAP = 'municipalities' 
-START_DATE = '2024-10-21'
-END_DATE = '2024-11-10'
+START_DATE = '2024-10-01'
+END_DATE = '2024-11-08'
 
 # --- Path Management ---
 # Dynamically get the directory of this script
